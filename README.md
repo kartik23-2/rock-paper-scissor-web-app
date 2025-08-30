@@ -1,1 +1,1 @@
-![screenshot of app](ss1.png.png)
+![screenshot of app](ss2.png.png)
